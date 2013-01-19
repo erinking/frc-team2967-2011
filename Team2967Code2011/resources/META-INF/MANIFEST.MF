@@ -1,0 +1,6 @@
+MIDlet-Name: Team2967Code2011
+MIDlet-Version: 1.0.0
+MIDlet-Vendor: FIRST
+MIDlet-1: Team2967Code2011, ,  edu.mcsdga.chs.Team2967Code2011
+MicroEdition-Profile: IMP-1.0
+MicroEdition-Configuration: CLDC-1.1
